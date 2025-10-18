@@ -1,9 +1,10 @@
-﻿using System.Windows.Forms;
+using System.Windows.Forms;
 
 namespace SonyERP.WinForms.Forms
 {
     public partial class AccountsForm : Form
     {
+        // الحقل يكون هنا فقط في الـDesigner
         private Button btnPurchase;
 
         private void InitializeComponent()
