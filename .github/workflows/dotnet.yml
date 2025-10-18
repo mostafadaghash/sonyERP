@@ -1,0 +1,30 @@
+name: .NET Build (SonyERP.Clean)
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: windows-latest  # ممكن ubuntu-latest لو تفضّل
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: |
+            9.0.x
+
+      - name: Restore
+        run: dotnet restore ./SonyERP.Clean.sln
+
+      - name: Build
+        run: dotnet build ./SonyERP.Clean.sln --configuration Release --no-restore
+
+      # لو عندك Tests ضيف:
+      # - name: Test
+      #   run: dotnet test ./SonyERP.Clean.sln --no-build --configuration Release
