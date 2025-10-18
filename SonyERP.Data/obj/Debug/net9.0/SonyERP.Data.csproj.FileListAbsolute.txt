@@ -1,0 +1,17 @@
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\bin\Debug\net9.0\SonyERP.Data.deps.json
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\bin\Debug\net9.0\SonyERP.Data.runtimeconfig.json
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\bin\Debug\net9.0\SonyERP.Data.dll
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\bin\Debug\net9.0\SonyERP.Data.pdb
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\bin\Debug\net9.0\SonyERP.Models.dll
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\bin\Debug\net9.0\SonyERP.Models.pdb
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\obj\Debug\net9.0\SonyERP.Data.csproj.AssemblyReference.cache
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\obj\Debug\net9.0\SonyERP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\obj\Debug\net9.0\SonyERP.Data.AssemblyInfoInputs.cache
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\obj\Debug\net9.0\SonyERP.Data.AssemblyInfo.cs
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\obj\Debug\net9.0\SonyERP.Data.csproj.CoreCompileInputs.cache
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\obj\Debug\net9.0\SonyERP..076460BF.Up2Date
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\obj\Debug\net9.0\SonyERP.Data.dll
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\obj\Debug\net9.0\refint\SonyERP.Data.dll
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\obj\Debug\net9.0\SonyERP.Data.pdb
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\obj\Debug\net9.0\SonyERP.Data.genruntimeconfig.cache
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Data\obj\Debug\net9.0\ref\SonyERP.Data.dll

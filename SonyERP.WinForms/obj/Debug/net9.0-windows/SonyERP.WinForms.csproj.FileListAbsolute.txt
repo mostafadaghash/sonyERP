@@ -1,0 +1,5 @@
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.WinForms\obj\Debug\net9.0-windows\SonyERP.WinForms.csproj.AssemblyReference.cache
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.WinForms\obj\Debug\net9.0-windows\SonyERP.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.WinForms\obj\Debug\net9.0-windows\SonyERP.WinForms.AssemblyInfoInputs.cache
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.WinForms\obj\Debug\net9.0-windows\SonyERP.WinForms.AssemblyInfo.cs
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.WinForms\obj\Debug\net9.0-windows\SonyERP.WinForms.csproj.CoreCompileInputs.cache

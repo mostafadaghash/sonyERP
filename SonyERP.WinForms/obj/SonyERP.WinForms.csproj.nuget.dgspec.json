@@ -1,0 +1,418 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.WinForms\\SonyERP.WinForms.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Business\\SonyERP.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Business\\SonyERP.Business.csproj",
+        "projectName": "SonyERP.Business",
+        "projectPath": "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Business\\SonyERP.Business.csproj",
+        "packagesPath": "C:\\Users\\ELkayan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ELkayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.DAL\\SonyERP.DAL.csproj": {
+                "projectPath": "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.DAL\\SonyERP.DAL.csproj"
+              },
+              "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Data\\SonyERP.Data.csproj": {
+                "projectPath": "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Data\\SonyERP.Data.csproj"
+              },
+              "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Models\\SonyERP.Models.csproj": {
+                "projectPath": "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Models\\SonyERP.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.DAL\\SonyERP.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.DAL\\SonyERP.DAL.csproj",
+        "projectName": "SonyERP.DAL",
+        "projectPath": "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.DAL\\SonyERP.DAL.csproj",
+        "packagesPath": "C:\\Users\\ELkayan\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ELkayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Data\\SonyERP.Data.csproj": {
+                "projectPath": "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Data\\SonyERP.Data.csproj"
+              },
+              "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Models\\SonyERP.Models.csproj": {
+                "projectPath": "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Models\\SonyERP.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Data\\SonyERP.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Data\\SonyERP.Data.csproj",
+        "projectName": "SonyERP.Data",
+        "projectPath": "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Data\\SonyERP.Data.csproj",
+        "packagesPath": "C:\\Users\\ELkayan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ELkayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Models\\SonyERP.Models.csproj": {
+                "projectPath": "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Models\\SonyERP.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Models\\SonyERP.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Models\\SonyERP.Models.csproj",
+        "projectName": "SonyERP.Models",
+        "projectPath": "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Models\\SonyERP.Models.csproj",
+        "packagesPath": "C:\\Users\\ELkayan\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ELkayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.WinForms\\SonyERP.WinForms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.WinForms\\SonyERP.WinForms.csproj",
+        "projectName": "SonyERP.WinForms",
+        "projectPath": "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.WinForms\\SonyERP.WinForms.csproj",
+        "packagesPath": "C:\\Users\\ELkayan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.WinForms\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ELkayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Business\\SonyERP.Business.csproj": {
+                "projectPath": "C:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Business\\SonyERP.Business.csproj"
+              },
+              "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Models\\SonyERP.Models.csproj": {
+                "projectPath": "c:\\Users\\ELkayan\\MD accounts ERP\\SonyERP.Clean\\SonyERP.Models\\SonyERP.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

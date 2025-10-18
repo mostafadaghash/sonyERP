@@ -1,0 +1,17 @@
+c:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\bin\Debug\net9.0\SonyERP.DAL.deps.json
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\bin\Debug\net9.0\SonyERP.DAL.dll
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\bin\Debug\net9.0\SonyERP.DAL.pdb
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\bin\Debug\net9.0\SonyERP.Data.dll
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\bin\Debug\net9.0\SonyERP.Models.dll
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\bin\Debug\net9.0\SonyERP.Models.pdb
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\bin\Debug\net9.0\SonyERP.Data.pdb
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\obj\Debug\net9.0\SonyERP.DAL.csproj.AssemblyReference.cache
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\obj\Debug\net9.0\SonyERP.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\obj\Debug\net9.0\SonyERP.DAL.AssemblyInfoInputs.cache
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\obj\Debug\net9.0\SonyERP.DAL.AssemblyInfo.cs
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\obj\Debug\net9.0\SonyERP.DAL.csproj.CoreCompileInputs.cache
+c:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\obj\Debug\net9.0\SonyERP..107F5EEC.Up2Date
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\obj\Debug\net9.0\SonyERP.DAL.dll
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\obj\Debug\net9.0\refint\SonyERP.DAL.dll
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\obj\Debug\net9.0\SonyERP.DAL.pdb
+c:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.DAL\obj\Debug\net9.0\ref\SonyERP.DAL.dll

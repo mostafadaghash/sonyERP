@@ -1,0 +1,3 @@
+﻿Id,Email,GameName,Platform,BranchId,IsAvailable,StoreRegion,PurchasePrice,DefaultSellPrice,Ps4OfflineLeft,Ps4SecondaryLeft,Ps4PrimaryLeft,Ps5OfflineLeft,Ps5SecondaryLeft,Ps5PrimaryLeft,CreatedAt
+1,acc1@mail.com,FC26,PS5,1,1,0,,,0,0,0,0,0,0,"2025-10-15 16:07:59"
+2,acc2@mail.com,FC26,PS5,1,1,0,,,0,0,0,0,0,0,"2025-10-15 16:07:59"

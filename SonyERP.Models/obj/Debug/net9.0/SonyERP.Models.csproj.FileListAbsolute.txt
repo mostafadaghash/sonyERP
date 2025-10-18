@@ -1,0 +1,11 @@
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Models\bin\Debug\net9.0\SonyERP.Models.deps.json
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Models\bin\Debug\net9.0\SonyERP.Models.dll
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Models\bin\Debug\net9.0\SonyERP.Models.pdb
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Models\obj\Debug\net9.0\SonyERP.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Models\obj\Debug\net9.0\SonyERP.Models.AssemblyInfoInputs.cache
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Models\obj\Debug\net9.0\SonyERP.Models.AssemblyInfo.cs
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Models\obj\Debug\net9.0\SonyERP.Models.csproj.CoreCompileInputs.cache
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Models\obj\Debug\net9.0\SonyERP.Models.dll
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Models\obj\Debug\net9.0\refint\SonyERP.Models.dll
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Models\obj\Debug\net9.0\SonyERP.Models.pdb
+C:\Users\ELkayan\MD accounts ERP\SonyERP.Clean\SonyERP.Models\obj\Debug\net9.0\ref\SonyERP.Models.dll
